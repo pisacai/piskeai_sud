@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pisacai",
+  "description": "Pisac AI — Instagram agent skill pack za Claude (hrvatska verzija)",
+  "owner": {
+    "name": "PISAC STUDIO AI",
+    "url": "https://github.com/pisacai"
+  },
+  "plugins": [
+    {
+      "name": "pisacai",
+      "description": "13 Claude vještina za vođenje Instagram računa: Reels s bodovanim hook-ovima, viral research, caption linter, humanizer, carousel, story, DM, plan tjedna, audit i više.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/pisacai/pisacai"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "pisacai",
+  "description": "Pisac AI — 13 Claude vještina koje vode Instagram račun: Reels s bodovanim hook-ovima i tempiranim beat sheetom, viral research po outlier multiplikatoru, caption linter protiv feed truncation, carousel, story, DM, plan tjedna, komentari, odgovori, repurposing, audit i humanizer koji miče AI fingerprint prije objave.",
+  "version": "1.0.0",
+  "author": {
+    "name": "PISAC STUDIO AI"
+  },
+  "homepage": "https://github.com/pisacai/pisacai",
+  "repository": "https://github.com/pisacai/pisacai",
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "content", "writing", "humanizer", "social", "marketing", "hrvatski", "croatian"]
+}
