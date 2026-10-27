@@ -1,4 +1,4 @@
-# Instagram Agent Skill — hrvatska verzija
+# Instagram Agent Skill 
 
 Besplatan paket od **13 Claude vještina** koji vodi tvoj Instagram račun. Bez registracije, bez API ključa, ništa se ne spaja na vanjski servis. Claude piše — ti objavljuješ.
 
