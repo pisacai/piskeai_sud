@@ -111,6 +111,3 @@ Pošteno korištenje: **ubij očito slabe hook-ove prije snimanja, dalje se osla
 
 ---
 
-## Licenca i atribucija
-
-Original: Jake Schincariol, MIT licenca. Puni repo i source: https://github.com/Jakeschincariol/instagram-agent-skill
