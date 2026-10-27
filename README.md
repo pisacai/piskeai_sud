@@ -22,7 +22,7 @@ I jedna je **humanizer** — zbog njega je sve ostalo upotrebljivo. Miče em-crt
 Zalijepi ovaj prompt u Claude:
 
 ```
-https://github.com/Jakeschincariol/instagram-agent-skill
+https://github.com/pisacai/piskeai_sud
 
 Instaliraj ovu skill, pa potvrdi da /ig-reel radi.
 ```
@@ -30,15 +30,15 @@ Instaliraj ovu skill, pa potvrdi da /ig-reel radi.
 Ili ručno u Claude Code:
 
 ```bash
-git clone https://github.com/Jakeschincariol/instagram-agent-skill.git
-cp -r instagram-agent-skill/skills/ig-* ~/.claude/skills/
+git clone https://github.com/pisacai/piskeai_sud.git
+cp -r piskeai_sud/skills/ig-* ~/.claude/skills/
 ```
 
 Ili kao plugin:
 
 ```
-/plugin marketplace add Jakeschincariol/instagram-agent-skill
-/plugin install instagram-agent
+/plugin marketplace add pisacai/piskeai_sud
+/plugin install pisacai
 ```
 
 Lokalno u projekt umjesto globalno: iste foldere kopiraj u `.claude/skills/` svog repoa. Nemaš Claude Code? Zalijepi bilo koji `SKILL.md` na vrh chata i radi kao mode (gubiš 5 Python alata, ali tekstualni dio radi).
