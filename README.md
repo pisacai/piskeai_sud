@@ -2,9 +2,6 @@
 
 Besplatan paket od **13 Claude vještina** koji vodi tvoj Instagram račun. Bez registracije, bez API ključa, ništa se ne spaja na vanjski servis. Claude piše — ti objavljuješ.
 
-> Original: [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) · MIT licenca · autor: Jake Schincariol
-> Ovo je hrvatska prilagodba za vlastito korištenje.
-
 ---
 
 ## Što radi
